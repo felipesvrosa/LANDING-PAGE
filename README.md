@@ -7,3 +7,8 @@ Depois de um tempo resolvi fazer um landing page usado a base da Rafaella Baller
 O resultado foi esse, espero que tenha gostado do resultado.
 
 Espero que gostem do resultado.
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
