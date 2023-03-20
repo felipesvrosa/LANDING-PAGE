@@ -1,4 +1,6 @@
-# Ola a todos 
+<div align="center">
+  <p> Ola a todos 👋</p>
+</div>
 
 Depois de um tempo resolvi fazer um landing page usado a base da Rafaella Ballerini, foi so um teste para tenta aquecer e aprimora meu conhecimento em HTML e CSS tentando sempre evoluir o maximo que posso.
 
@@ -9,6 +11,6 @@ O resultado foi esse, espero que tenha gostado do resultado.
 Espero que gostem do resultado.
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart: , HTML e CSS.</p>
   <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
